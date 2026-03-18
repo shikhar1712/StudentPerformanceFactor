@@ -49,17 +49,7 @@ The main objective of this project is to understand which academic, personal, an
 ## Conclusion
 This project demonstrates how data analysis can be used to understand the factors affecting academic performance. It helped strengthen skills in data cleaning, exploratory data analysis, visualization, and insight generation using Python.
 
-## Repository Structure
-student-performance-factors-analysis/
-│
-├── data/
-│   └── StudentPerformanceFactors.csv
-├── notebooks/
-│   └── student_performance_factors_analysis.ipynb
-├── images/
-├── README.md
-
 ## Author
 Shikhar Singh 
 LinkedIn: [www.linkedin.com/in/shikharsingh-data] 
-GitHub: [
+GitHub: [https://github.com/shikhar1712]
