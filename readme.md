@@ -51,5 +51,5 @@ This project demonstrates how data analysis can be used to understand the factor
 
 ## Author
 Shikhar Singh 
-LinkedIn: [www.linkedin.com/in/shikharsingh-data] 
+LinkedIn: [www.linkedin.com/in/shikharsingh-math] 
 GitHub: [https://github.com/shikhar1712]
